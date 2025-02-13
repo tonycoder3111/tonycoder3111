@@ -1,4 +1,5 @@
 - 👋 Hi, I’m Tony Joachim s.
+- ![Tony Joachim](https://github.com/tonycoder3111/tonycoder3111/blob/main/1000211703.jpg?raw=true)
 - 👀 I’m interested in data analyst.
 - 🌱 I’m currently learning data science and machine learning.
 - 💞️ I’m looking to collaborate on data analysts
